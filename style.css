@@ -1,6 +1,9 @@
-h1, h2, img {
+h1, h2 {
     text-align: center;
 }
 body {
     background-color: orange;
+}
+img {
+    padding: 10px
 }
