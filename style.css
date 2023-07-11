@@ -16,7 +16,11 @@ img {
     text-align: center;
     font-family: Impact;
 }
-h3, li, ol, ul {
+h3, ol, ul {
     text-align: center;
     font-family: monospace;
+}
+li {
+    list-style-position: inside;
+    text-align: center;
 }
