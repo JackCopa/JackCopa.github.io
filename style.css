@@ -3,12 +3,14 @@ h2 {
     font-family: monospace;
 }
 body {
-    background-color: black;
+    background-color: orange;
 }
 img {
     height: 250px;
     width: 250px;
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .heilp {
     text-align: center;
