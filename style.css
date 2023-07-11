@@ -25,11 +25,11 @@ li {
     text-align: center;
 }
 a:active {
-    color: lightblue;
+    color: steelblue;
 }
 a:visited {
-    color: skyblue;
+    color: steelblue;
 }
 a:hover {
-    color: steelblue;
+    color: skyblue;
 }
