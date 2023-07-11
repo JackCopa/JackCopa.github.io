@@ -16,9 +16,7 @@ body {
     text-align: center;
     font-family: Impact;
 }
-h3 {
+h3, li, ol, ul {
     text-align: center;
     font-family: monospace;
-    padding: -50px;
-    margin-left: 0;
 }
