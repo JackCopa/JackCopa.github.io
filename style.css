@@ -1,4 +1,4 @@
-h2, h3 {
+h2 {
     text-align: center;
     font-family: monospace;
 }
@@ -13,4 +13,9 @@ img {
 .heilp {
     text-align: center;
     font-family: Impact;
+}
+h3 {
+    text-align: center;
+    font-family: monospace;
+    padding: 50px;
 }
