@@ -24,3 +24,12 @@ li {
     list-style-position: inside;
     text-align: center;
 }
+a:active {
+    color: lightblue;
+}
+a:visited {
+    color: skyblue;
+}
+a:hover {
+    color: steelblue;
+}
