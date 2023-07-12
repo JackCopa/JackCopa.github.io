@@ -1,18 +1,16 @@
 h2 {
     text-align: center;
-    font-family: monospace;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 32px;
 }
 body {
-    background: linear-gradient(#009900 1%,#990099, #009900);
+    background: linear-gradient( #009900 1%,#990099, #009900);
 }
 img {
     height: 250px;
     width: 250px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     box-shadow: 0 0 20px 20px #FFFFFF 
 }
 .heilp {
@@ -37,4 +35,28 @@ a:visited {
 }
 a:hover {
     color: skyblue;
+}
+.rec1 {
+    background: #009980;
+    box-shadow: 0 0 20px 20px #008f99;
+    position: absolute;
+    top:-10%;
+    left:-11%;
+    transform:translate(-50%,-50%);
+    transform: rotate(10deg);
+}
+.rec2 {
+    background: #009980;
+    box-shadow: 0 0 20px 20px #008f99;
+    position: absolute;
+    top:-10%;
+    left:89%;
+    transform:translate(-50%,-50%);
+    transform: rotate(-10deg);
+}
+.video {
+    position: absolute;
+    top: 95%;
+    left: 39%;
+    box-shadow: 0 0 20px 20px #FFFFFF
 }
