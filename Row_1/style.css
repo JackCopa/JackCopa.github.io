@@ -1,0 +1,33 @@
+.title {
+    text-align: center;
+    /*color: #9F2B2B*/
+    box-shadow: 0 0 20x 5px rgb(255, 153, 0);
+    font-size: 70px;
+    font-family: fantasy;
+}
+body {
+    background:rgb(214, 238, 247);
+}
+.homepage {
+    height: 250px;
+    width: 350px;
+    margin:150px auto;
+}
+.bar {
+    width: 700px;
+    position: absolute;
+    top:40%;
+    left:25%;
+    font-family: monospace;
+    height: 70px;
+    font-size: 22px;
+    
+}
+.sub {
+    height: 76px;
+    position: absolute;
+    top:40%;
+    left:120%;
+    font-family: copper;
+}
+
