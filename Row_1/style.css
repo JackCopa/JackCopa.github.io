@@ -2,39 +2,120 @@
     text-align: center;
     /*color: #9F2B2B*/
     box-shadow: 0 0 20x 5px rgb(255, 153, 0);
-    font-size: 70px;
+    font-size: 100px;
+    text-align: center;
     font-family: fantasy;
 }
-body {
-    background:rgb(214, 238, 247);
+.no {
+    background: linear-gradient(rgb(214, 238, 247), rgb(146, 248, 255), rgb(214, 238, 247));
 }
 .homepage {
     height: 250px;
     width: 350px;
     margin:150px auto;
 }    
-}
 .sub {
     height: 76px;
     position: absolute;
     top:40%;
     left:120%;
-    font-family: copper;
+    font-family: 'Courier New', Courier, monospace;
 }
 
-.title2 {
+.title2, h2 {
     text-align: center;
     /*color: #9F2B2B*/
     box-shadow: 0 0 20x 5px rgb(255, 153, 0);
-    font-size: 30px;
-    font-family: fantasy;
-}
-form{
-    height: 50px;
-    width: 300px;
+    font-size: 45px;
+    font-family: monospace;
     text-align: center;
-    font-family: fantasy;
-    font-size: 30px;
-    margin: center;
 }
-  }
+.seal {
+    margin-left:725px;
+    font-size: 60px
+}
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button6 {
+    margin: 4px 75px; position: relative;
+    left: 5%;;
+}
+.button {
+    position: relative;
+    left: 5%;
+}
+img {
+    margin-left:300px;
+    height:400px;
+    box-shadow: 0 0 50px 20px rgb(214, 238, 247);
+}
+
+.text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:30px;
+    margin-top:10px;
+}
+
+.cool {
+    font-size:50px;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(180, 135, 21);
+}
+
+.credit{
+    font-size:50px;
+}
+.red {
+    background: linear-gradient(rgb(214, 238, 247), rgb(160, 219, 243), rgb(214, 238, 247));
+}
+.img {
+    position: relative;
+    left: 27%;
+}
+.button7{
+    position: absolute;
+    top: 10%;
+    left: 1%;
+}
+
+.page {
+    list-style-position: inside;
+    font-size: 30px;
+    text-align: center;
+}
+.sealee{
+    position: relative;
+    left: 20%;
+}
+
+.font {
+    margin-top: 170px;
+    font-size:20px;
+}
+
+
+
+
+
+.button2 {background-color: #008CBA;     position: relative;
+    left: 5%;} /* Blue */
+.button3 {background-color: #f44336;     position: relative;
+    left: 5%;} /* Red */ 
+.button4 {background-color: #e7e7e7; color: black;     position: relative;
+    left: 5%;} /* Gray */ 
+.button5 {background-color: #555555;     position: relative;
+    left: 5%;} /* Black */
+
+body{
+    background: linear-gradient(rgb(214, 238, 247), rgb(146, 248, 255), rgb(214, 238, 247));
+    
+}
