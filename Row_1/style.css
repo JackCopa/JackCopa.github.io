@@ -12,16 +12,7 @@ body {
     height: 250px;
     width: 350px;
     margin:150px auto;
-}
-.bar {
-    width: 700px;
-    position: absolute;
-    top:40%;
-    left:25%;
-    font-family: monospace;
-    height: 70px;
-    font-size: 22px;
-    
+}    
 }
 .sub {
     height: 76px;
@@ -31,3 +22,19 @@ body {
     font-family: copper;
 }
 
+.title2 {
+    text-align: center;
+    /*color: #9F2B2B*/
+    box-shadow: 0 0 20x 5px rgb(255, 153, 0);
+    font-size: 30px;
+    font-family: fantasy;
+}
+form{
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    margin: center;
+}
+  }
