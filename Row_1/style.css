@@ -115,7 +115,7 @@ img {
 .button5 {background-color: #555555;     position: relative;
     left: 5%;} /* Black */
 
-body{
+.body{
     background: linear-gradient(rgb(214, 238, 247), rgb(146, 248, 255), rgb(214, 238, 247));
     
 }
